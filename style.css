@@ -26,8 +26,10 @@ header{
     text-align: center;
     color: white;
 }
-#paragrafo-amarelo{
-    color: #ffde59;
+.texto-inicial{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
 }
 header button{
     border: 1px;
